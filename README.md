@@ -1,4 +1,4 @@
-# Vue template  + pages  + eslint false  
+# Vue template  VueX + pages  + eslint false + Bootstrap +  Router + Store +  
 
 > A Vue.js project
 
