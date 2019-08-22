@@ -1,8 +1,5 @@
 <template>
   <div class="MainPage">
-    <button @click="commenttoggle">test</button>
-    <glide v-on:slideClicked="commenttoggle">dd</glide>
-    <Maincommentcard v-if="commentshow">asas</Maincommentcard>
   </div>
 </template>
 

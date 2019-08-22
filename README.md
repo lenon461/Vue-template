@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+> Todo  
+> store 템플릿 정리
+> build/config 파일들 주석달기
+
 ## Build Setup
 
 ``` bash

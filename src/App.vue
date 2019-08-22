@@ -2,6 +2,7 @@
   <div id="app">
     <router-link to="/"><h1>Root Logo</h1></router-link>
     <router-link to="/foo">Go to Foo</router-link>
+    <router-link to="/detail">Go to detail</router-link>
     <router-view/>
   </div>
 </template>

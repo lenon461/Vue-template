@@ -1,6 +1,6 @@
 <template>
   <div class="DetailPage">
-    test
+    this is detail page
   </div>
 </template>
 
